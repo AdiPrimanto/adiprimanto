@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiprimanto" alt="adiprimanto" /></a> </p>
 
-- 🌱 I’m currently learning **React JS and Next JS**
+- 🌱 I’m currently learning **React JS and Nuxt JS**
 
 - 👨‍💻 All of my projects are available at [https://adiprimanto.vercel.app/](https://adiprimanto.vercel.app/)
 
