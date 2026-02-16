@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS and Nuxt JS**
 
-- 👨‍💻 All of my projects are available at [https://adiprimanto.vercel.app/](https://adiprimanto.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-adiprimanto.vercel.app/](https://portfolio-adiprimanto.vercel.app/)
 
 - 💬 Ask me about **vue, react, css**
 
