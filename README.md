@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **adiprimanto.98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/190tPFFuaz7ZYS9VS4fwjbZ39hSgspW3t/view?usp=sharing](https://drive.google.com/file/d/190tPFFuaz7ZYS9VS4fwjbZ39hSgspW3t/view?usp=sharing)
-
 - ⚡ Fun fact **I can because I think I can**
 
 <h3 align="left">Connect with me:</h3>
